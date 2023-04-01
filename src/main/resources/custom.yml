@@ -1,0 +1,6 @@
+test:
+  my:
+    - name: charging-station
+      status: active
+    - name: evse
+      status: inactive
